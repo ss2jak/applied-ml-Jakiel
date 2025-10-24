@@ -6,11 +6,11 @@
 # TODO: Update site_description
 # TODO: Update site_author
 
-site_name: Applied ML Project
-site_url: https://denisecase.github.io/applied-ml-template/
-repo_url: https://github.com/denisecase/applied-ml-template
-site_description: Professional applied ML project
-site_author: Denise Case
+site_name: CA Housing Price Analysis
+site_url: https://ss2jak.github.io/applied-ml-Jakiel
+repo_url: https://github.com/ss2jak/applied-ml-Jakiel
+site_description: Predicting price of houses in CA
+site_author: Jakiel 
 docs_dir: docs
 site_dir: site
 
