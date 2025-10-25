@@ -9,7 +9,7 @@ build-backend = "setuptools.build_meta"
 requires = ["setuptools>=80", "wheel"]
 
 [project]
-author = [{name = "Jakiel"}] 
+authors = [{name = "Jakiel"}] 
 classifiers = [
   "Programming Language :: Python :: 3 :: Only",
   "Programming Language :: Python :: 3.12",
