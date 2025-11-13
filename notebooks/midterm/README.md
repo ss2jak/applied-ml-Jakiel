@@ -4,6 +4,14 @@ Used NBA_Dataset to walkthough the sections listed below.
 
 The goal of this project is to determine if machine learning could predict whether an NBA player would be a viable "MVP Candidate" defined as receiving at least one MVP vote.
 
+Link to notebook:
+https://github.com/ss2jak/applied-ml-Jakiel/blob/main/notebooks/midterm/classification_Jakiel.ipynb
+
+Link to dataset:
+https://www.kaggle.com/datasets/robertsunderhaft/nba-player-season-statistics-with-mvp-win-share/data 
+
+
+
 
 
 Section 1. Import and Inspect the Data
