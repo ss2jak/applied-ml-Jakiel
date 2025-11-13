@@ -10,7 +10,8 @@ https://github.com/ss2jak/applied-ml-Jakiel/blob/main/notebooks/midterm/classifi
 Link to dataset:
 https://www.kaggle.com/datasets/robertsunderhaft/nba-player-season-statistics-with-mvp-win-share/data 
 
-
+Link to Peer Review
+https://github.com/ss2jak/applied-ml-Jakiel/blob/main/notebooks/midterm/peer_review.md
 
 
 
